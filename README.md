@@ -1,6 +1,6 @@
 # Sonarr Radarr Queue Cleaner
 
-This is a fork of [sonarr-radarr-queue-cleaner](https://github.com/MattDGTL/sonarr-radarr-queue-cleaner) by [MattDGTL](https://github.com/MattDGTL). The fork adds a GitHub Action to build a Docker image and push it to GitHub Packages. The Docker image is available at [here](https://github.com/ben16w/sonarr-radarr-queue-cleaner/pkgs/container/sonarr-radarr-queue-cleaner). 
+This is a fork of [sonarr-radarr-queue-cleaner](https://github.com/MattDGTL/sonarr-radarr-queue-cleaner) by [MattDGTL](https://github.com/MattDGTL). The fork adds a GitHub Action to build a Docker image and push it to GitHub Packages. The Docker image is available at [here](https://github.com/RikMerkens/sonarr-radarr-queue-cleaner/pkgs/container/sonarr-radarr-queue-cleaner). 
 
 Install the Docker image with the following command, replacing the environment variables with your own values:
 
