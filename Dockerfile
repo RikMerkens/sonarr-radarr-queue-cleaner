@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster
+FROM python:alpine3.19
 
 ENV SONARR_URL='http://sonarr:8989'
 ENV SONARR_API_KEY=123456
